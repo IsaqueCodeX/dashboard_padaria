@@ -8,6 +8,11 @@ Sistema de gestão empresarial completo para padarias, desenvolvido com React, T
 [![React](https://img.shields.io/badge/React-18+-blue?style=flat-square&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4+-purple?style=flat-square&logo=vite)](https://vitejs.dev/)
 
+***
+## Projeto Online 👉 https://dashboard-padaria.vercel.app/login
+***
+
+
 ## ✨ Funcionalidades
 
 - **📊 Dashboard** - Visão geral com KPIs e métricas importantes
